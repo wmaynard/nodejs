@@ -13,6 +13,9 @@ Serial# 1234998871109
 
 **/
 
+//var addr = "https://5ee08c2cd3da402ea818f1a5dfa6f8b1.vfs.cloud9.us-east-1.amazonaws.com/";
+//var machine = addr + "gumball";
+//var endpoint = addr + "order";
 var machine = "http://api.nguyenresearch.com:8080/gumball";
 var endpoint = "http://api.nguyenresearch.com:8080/order";
 
